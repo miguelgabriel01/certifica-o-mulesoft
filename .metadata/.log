@@ -375,3 +375,15 @@ Caused by: java.net.SocketTimeoutException: Read timed out
 
 !ENTRY org.mule.tooling.maven 1 0 2022-10-24 14:01:34.299
 !MESSAGE  *** 3042 EmbeddedMavenRunner [configuration=DefaultMavenRunnerConfiguration [externalInstallation=false, mavenInstallationHome=null, mavenOpts=]]
+
+!ENTRY org.mule.tooling.core 2 0 2022-10-24 14:04:37.626
+!MESSAGE imageFigure was null (NodeFigure#updateImageFigure)
+
+!ENTRY org.mule.tooling.ui.contribution.munit 1 1 2022-10-24 14:04:43.447
+!MESSAGE Creating MUnit Recorder temporary folder in C:\Users\MIGUEL~1.SAN\AppData\Local\Temp\munit-recorder
+
+!ENTRY org.mule.tooling.maven 1 0 2022-10-24 14:05:39.343
+!MESSAGE  *** 3281 EmbeddedMavenRunner [configuration=DefaultMavenRunnerConfiguration [externalInstallation=false, mavenInstallationHome=null, mavenOpts=]]
+
+!ENTRY org.mule.tooling.maven 1 0 2022-10-24 14:06:09.358
+!MESSAGE  *** 3456 EmbeddedMavenRunner [configuration=MavenPreferences [isDontWarnAgainIfNoInstallationFoundChecked()=false, isGlobalMavenSupportEnabled()=true, getMavenInstallationHome()=C:\apache-maven-3.8.6-bin.tar, getMavenOpts()=, getDefaultGroupId()=com.mycompany, getBaseCommandline()=mvn clean package -nsu -DskipMunitTests, isDisplayRuntimeVersionWarning()=true, isExternalInstallation()=false]]

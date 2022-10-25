@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.mule.tooling.runtime.muleServerLaunchType">
     <stringAttribute key="launch_mule_server_version" value="org.mule.tooling.server.4.4.0.ee"/>
-    <stringAttribute key="mule-agent-port" value="58287"/>
-    <stringAttribute key="mule-agent-token-auth" value="7a1a91df-5eac-4f86-8a28-ff3f3ded15fa"/>
+    <stringAttribute key="mule-agent-port" value="55075"/>
+    <stringAttribute key="mule-agent-token-auth" value="e2d288bc-79de-492f-942a-68f61b719c8b"/>
     <listAttribute key="mule-project-names">
         <listEntry value="training4-american-ws"/>
     </listAttribute>

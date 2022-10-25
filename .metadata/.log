@@ -1001,3 +1001,75 @@ Caused by: org.apache.http.NoHttpResponseException: studio-metrics-report.cloudh
 
 !ENTRY org.mule.tooling.maven 1 0 2022-10-25 09:13:31.653
 !MESSAGE  *** 6032 EmbeddedMavenRunner [configuration=MavenPreferences [isDontWarnAgainIfNoInstallationFoundChecked()=false, isGlobalMavenSupportEnabled()=true, getMavenInstallationHome()=C:\apache-maven-3.8.6-bin.tar, getMavenOpts()=, getDefaultGroupId()=com.mycompany, getBaseCommandline()=mvn clean package -nsu -DskipMunitTests, isDisplayRuntimeVersionWarning()=true, isExternalInstallation()=false]]
+
+!ENTRY org.mule.tooling.maven 1 0 2022-10-25 09:34:10.216
+!MESSAGE  *** 3834 EmbeddedMavenRunner [configuration=MavenPreferences [isDontWarnAgainIfNoInstallationFoundChecked()=false, isGlobalMavenSupportEnabled()=true, getMavenInstallationHome()=C:\apache-maven-3.8.6-bin.tar, getMavenOpts()=, getDefaultGroupId()=com.mycompany, getBaseCommandline()=mvn clean package -nsu -DskipMunitTests, isDisplayRuntimeVersionWarning()=true, isExternalInstallation()=false]]
+
+!ENTRY org.mule.tooling.maven 1 0 2022-10-25 09:34:32.678
+!MESSAGE  *** 2285 EmbeddedMavenRunner [configuration=MavenPreferences [isDontWarnAgainIfNoInstallationFoundChecked()=false, isGlobalMavenSupportEnabled()=true, getMavenInstallationHome()=C:\apache-maven-3.8.6-bin.tar, getMavenOpts()=, getDefaultGroupId()=com.mycompany, getBaseCommandline()=mvn clean package -nsu -DskipMunitTests, isDisplayRuntimeVersionWarning()=true, isExternalInstallation()=false]]
+
+!ENTRY org.mule.tooling.maven 1 0 2022-10-25 09:35:43.685
+!MESSAGE  *** 3236 EmbeddedMavenRunner [configuration=MavenPreferences [isDontWarnAgainIfNoInstallationFoundChecked()=false, isGlobalMavenSupportEnabled()=true, getMavenInstallationHome()=C:\apache-maven-3.8.6-bin.tar, getMavenOpts()=, getDefaultGroupId()=com.mycompany, getBaseCommandline()=mvn clean package -nsu -DskipMunitTests, isDisplayRuntimeVersionWarning()=true, isExternalInstallation()=false]]
+
+!ENTRY org.mule.tooling.maven 1 0 2022-10-25 09:41:25.120
+!MESSAGE  *** 4507 EmbeddedMavenRunner [configuration=MavenPreferences [isDontWarnAgainIfNoInstallationFoundChecked()=false, isGlobalMavenSupportEnabled()=true, getMavenInstallationHome()=C:\apache-maven-3.8.6-bin.tar, getMavenOpts()=, getDefaultGroupId()=com.mycompany, getBaseCommandline()=mvn clean package -nsu -DskipMunitTests, isDisplayRuntimeVersionWarning()=true, isExternalInstallation()=false]]
+
+!ENTRY org.mule.tooling.runtime 1 0 2022-10-25 10:05:42.048
+!MESSAGE Starting shell termination command "[taskkill, /F, /PID, 1544]"
+
+!ENTRY org.mule.tooling.runtime 1 0 2022-10-25 10:05:42.063
+!MESSAGE Finished shell termination command "[taskkill, /F, /PID, 1544]"
+
+!ENTRY org.mule.tooling.runtime 2 0 2022-10-25 10:05:42.303
+!MESSAGE Termination command ShellTerminationCommand [getTerminationCommand()=[taskkill, /F, /PID, 1544]] indicate retry action is necessary, moving on to next one
+
+!ENTRY org.mule.tooling.runtime 1 0 2022-10-25 10:05:42.305
+!MESSAGE Starting shell termination command "[taskkill, /F, /PID, 8268]"
+
+!ENTRY org.mule.tooling.runtime 1 0 2022-10-25 10:05:42.314
+!MESSAGE Finished shell termination command "[taskkill, /F, /PID, 8268]"
+
+!ENTRY org.mule.tooling.runtime 2 0 2022-10-25 10:05:42.549
+!MESSAGE Termination command ShellTerminationCommand [getTerminationCommand()=[taskkill, /F, /PID, 8268]] indicate retry action is necessary, moving on to next one
+
+!ENTRY org.mule.tooling.maven 1 0 2022-10-25 10:05:44.206
+!MESSAGE  *** 3332 EmbeddedMavenRunner [configuration=MavenPreferences [isDontWarnAgainIfNoInstallationFoundChecked()=false, isGlobalMavenSupportEnabled()=true, getMavenInstallationHome()=C:\apache-maven-3.8.6-bin.tar, getMavenOpts()=, getDefaultGroupId()=com.mycompany, getBaseCommandline()=mvn clean package -nsu -DskipMunitTests, isDisplayRuntimeVersionWarning()=true, isExternalInstallation()=false]]
+
+!ENTRY org.mule.tooling.maven 1 0 2022-10-25 10:05:48.027
+!MESSAGE  *** 3248 EmbeddedMavenRunner [configuration=MavenPreferences [isDontWarnAgainIfNoInstallationFoundChecked()=false, isGlobalMavenSupportEnabled()=true, getMavenInstallationHome()=C:\apache-maven-3.8.6-bin.tar, getMavenOpts()=, getDefaultGroupId()=com.mycompany, getBaseCommandline()=mvn clean package -nsu -DskipMunitTests, isDisplayRuntimeVersionWarning()=true, isExternalInstallation()=false]]
+
+!ENTRY org.mule.tooling.runtime 1 0 2022-10-25 11:02:40.847
+!MESSAGE Starting shell termination command "[taskkill, /F, /PID, 14024]"
+
+!ENTRY org.mule.tooling.runtime 1 0 2022-10-25 11:02:40.860
+!MESSAGE Finished shell termination command "[taskkill, /F, /PID, 14024]"
+
+!ENTRY org.mule.tooling.runtime 2 0 2022-10-25 11:02:41.085
+!MESSAGE Termination command ShellTerminationCommand [getTerminationCommand()=[taskkill, /F, /PID, 14024]] indicate retry action is necessary, moving on to next one
+
+!ENTRY org.mule.tooling.runtime 1 0 2022-10-25 11:02:41.086
+!MESSAGE Starting shell termination command "[taskkill, /F, /PID, 4156]"
+
+!ENTRY org.mule.tooling.runtime 1 0 2022-10-25 11:02:41.094
+!MESSAGE Finished shell termination command "[taskkill, /F, /PID, 4156]"
+
+!ENTRY org.mule.tooling.runtime 2 0 2022-10-25 11:02:41.300
+!MESSAGE Termination command ShellTerminationCommand [getTerminationCommand()=[taskkill, /F, /PID, 4156]] indicate retry action is necessary, moving on to next one
+
+!ENTRY org.mule.tooling.maven 1 0 2022-10-25 11:06:12.182
+!MESSAGE  *** 6687 EmbeddedMavenRunner [configuration=DefaultMavenRunnerConfiguration [externalInstallation=false, mavenInstallationHome=null, mavenOpts=]]
+
+!ENTRY org.mule.tooling.maven 1 0 2022-10-25 11:08:10.698
+!MESSAGE  *** 4406 EmbeddedMavenRunner [configuration=DefaultMavenRunnerConfiguration [externalInstallation=false, mavenInstallationHome=null, mavenOpts=]]
+
+!ENTRY org.mule.tooling.maven 1 0 2022-10-25 11:18:24.969
+!MESSAGE  *** 3648 EmbeddedMavenRunner [configuration=DefaultMavenRunnerConfiguration [externalInstallation=false, mavenInstallationHome=null, mavenOpts=]]
+
+!ENTRY org.mule.tooling.maven 1 0 2022-10-25 11:18:34.760
+!MESSAGE  *** 3802 EmbeddedMavenRunner [configuration=DefaultMavenRunnerConfiguration [externalInstallation=false, mavenInstallationHome=null, mavenOpts=]]
+
+!ENTRY org.mule.tooling.maven 1 0 2022-10-25 11:19:06.551
+!MESSAGE  *** 6377 EmbeddedMavenRunner [configuration=DefaultMavenRunnerConfiguration [externalInstallation=false, mavenInstallationHome=null, mavenOpts=]]
+
+!ENTRY org.mule.tooling.maven 1 0 2022-10-25 11:19:37.358
+!MESSAGE  *** 8888 EmbeddedMavenRunner [configuration=MavenPreferences [isDontWarnAgainIfNoInstallationFoundChecked()=false, isGlobalMavenSupportEnabled()=true, getMavenInstallationHome()=C:\apache-maven-3.8.6-bin.tar, getMavenOpts()=, getDefaultGroupId()=com.mycompany, getBaseCommandline()=mvn clean package -nsu -DskipMunitTests, isDisplayRuntimeVersionWarning()=true, isExternalInstallation()=false]]
